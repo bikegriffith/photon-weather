@@ -1,0 +1,15 @@
+{
+  "name": "codemash-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "particle-cli": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "particle": "particle"
+  },
+  "author": "",
+  "license": "ISC"
+}
